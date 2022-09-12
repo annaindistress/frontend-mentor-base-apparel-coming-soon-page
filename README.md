@@ -26,11 +26,22 @@ Users should be able to:
 
 ### Screenshot
 
+![](./screenshot.png)
+
 ### Links
+
+- [Solution URL](https://github.com/annaindistress/frontend-mentor-base-apparel-coming-soon-page)
+- [Live Site URL](https://annaindistress.github.io/frontend-mentor-base-apparel-coming-soon-page/)
 
 ## My process
 
 ### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- Vanilla JavaScript
 
 ## Author
 
