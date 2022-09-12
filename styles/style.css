@@ -299,6 +299,10 @@
   .section {
     flex-direction: row;
     justify-content: space-between;
+    background-image: url('../images/bg-pattern-desktop.svg');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: calc(50% + 110px) auto;
   }
 
   .section__container {
